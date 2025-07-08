@@ -1,15 +1,16 @@
-<!-- Profile Header -->
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Sai+%F0%9F%91%8B;Web+%26+App+Developer;AI+Chatbot+Explorer;Full+Stack+Problem+Solver!" alt="Typing SVG" />
 </p>
 
+<!-- Hero Image -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
 </div>
 
 ---
 
-<h3 align="center">🚀 Welcome to my GitHub profile!</h3>
+<h2 align="center">🌟 Welcome to my GitHub Profile!</h2>
 
 <p align="center">
   <a href="mailto:sai65265@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -21,12 +22,54 @@
 
 ## 📌 About Me
 
-- 🧑‍💻 I’m a **Full Stack Developer** passionate about building intuitive UIs and scalable APIs  
-- 🤖 Currently learning: **LangChain**, **ChromaDB**, **GPT4All**, and **AI chatbots**
-- 🌐 Technologies I work with: React, Node.js, MongoDB, PostgreSQL, Vite, Tailwind CSS
-- 🛠️ Tools I enjoy: Figma, Docker, Firebase, VS Code, Git, GitHub Actions
-- 🎓 2024 Graduate in CSE (IoT + Cybersecurity + Blockchain)
-- 📫 How to reach me: **[sai65265@gmail.com](mailto:sai65265@gmail.com)**
+- 🧑‍💻 I'm a passionate **Full Stack Developer** (React, Node.js, MongoDB)
+- 🤖 Exploring AI with **LangChain**, **GPT4All**, **ChromaDB**
+- 🛠️ Tools: Vite, Tailwind CSS, Docker, Figma, Firebase
+- 🎓 B.Tech in CSE (IoT, Cybersecurity & Blockchain)
+- 📫 Reach me: **[sai65265@gmail.com](mailto:sai65265@gmail.com)**
+
+---
+
+## 💼 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://spotify-clone-1-sai.vercel.app/" target="_blank">
+        <img src="https://github.com/sainath-666/spotify-clone/raw/main/public/assets/images/image.png" alt="Melodify Preview" width="100%" />
+        <br />
+        <strong>🎵 Melodify</strong>
+      </a>
+      <p>A modern Spotify UI clone built with TS + SCSS + React</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://chatty-realtime-chatting.onrender.com/login" target="_blank">
+        <img src="https://github.com/sainath-666/Real-time-Chat-App/raw/main/client/public/preview.png" alt="Chatty Preview" width="100%" />
+        <br />
+        <strong>💬 Chatty</strong>
+      </a>
+      <p>Full-stack real-time chat app with Socket.io & Zustand</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://sainath-666.github.io/Hotel-Website/" target="_blank">
+        <img src="https://github.com/sainath-666/Hotel-Website/raw/main/assets/preview.png" alt="Hotel Website Preview" width="100%" />
+        <br />
+        <strong>🏨 Hotel Website</strong>
+      </a>
+      <p>Responsive hotel booking site with elegant layout</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sainath-666/Doctor-App" target="_blank">
+        <img src="https://github.com/sainath-666/Doctor-App/raw/main/public/preview.png" alt="Doctor App Preview" width="100%" />
+        <br />
+        <strong>👨‍⚕️ Doctor Consultation (Idea)</strong>
+      </a>
+      <p>Planned structure for an online doctor platform</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,21 +81,11 @@
 
 ---
 
-## 💼 Featured Projects
-
-| Project | Description | Live Demo | Source Code |
-|--------|-------------|-----------|-------------|
-| 🎵 **Melodify** | Spotify UI clone with TypeScript, SCSS, smooth animations & audio logic | [Live](https://spotify-clone-1-sai.vercel.app/) | [Code](https://github.com/sainath-666/spotify-clone) |
-| 💬 **Chatty** | Full-stack real-time chat app with Socket.io, JWT auth, Zustand | [Live](https://chatty-realtime-chatting.onrender.com/login) | [Code](https://github.com/sainath-666/Real-time-Chat-App) |
-| 🏨 **Hotel Website** | Responsive static website with booking UI and elegant design | [Live](https://sainath-666.github.io/Hotel-Website/) | [Code](https://github.com/sainath-666/Hotel-Website) |
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainath-666&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=sainath-666&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sainath-666&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sainath-666&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -63,22 +96,17 @@
 
 ## 🎓 Certifications
 
-- ✅ **Full Stack Python Developer** – Aavanto
-- ✅ **Responsive Web Design** – freeCodeCamp
-- ✅ **AWS Cloud Practitioner** – LinkedIn Learning
-- ✅ **Industry 4.0 & IIoT** – NPTEL
-- ✅ **Google Cloud Foundations** – Google Skills Boost
+- 🥇 Full Stack Python Developer – Aavanto
+- 📘 Responsive Web Design – freeCodeCamp
+- ☁️ AWS Cloud Practitioner Prep – LinkedIn Learning
+- 🏭 Industry 4.0 & IIoT – NPTEL
+- 🌩️ Google Cloud Fundamentals – Google Skills Boost
 
 ---
 
-## ✨ Fun Fact
+## 🎵 Now Playing (Optional)
 
-> 🧠 I love turning ideas into working apps — whether it's a chatbot, a dashboard, or a Spotify clone.
+> Enable with [novatorem](https://github.com/novatorem) or a Spotify widget.
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br />
-  <sup>Thanks for visiting — let's build something amazing.</sup>
-</div>
+```md
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem)](https://open.spotify.com/user/your-spotify-username)
