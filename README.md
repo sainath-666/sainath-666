@@ -104,9 +104,14 @@
 
 ---
 
-## 🎵 Now Playing (Optional)
+## ⚡ Fun Fact
 
-> Enable with [novatorem](https://github.com/novatorem) or a Spotify widget.
+> I love turning wild ideas into working prototypes. Whether it's a Spotify clone or a real-time chat app — I'm always building!
 
-```md
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem)](https://open.spotify.com/user/your-spotify-username)
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+  <sup>Thanks for visiting — let's build something amazing together!</sup>
+</div>
