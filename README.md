@@ -5,7 +5,7 @@
 
 <!-- Hero Image -->
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 </div>
 
 ---
@@ -55,6 +55,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainath-666&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sainath-666&theme=discord&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+</p>
+
+
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainath-666&theme=react-dark&hide_border=true" />
+</p>
+
 ---
 
 ## ⚡ Fun Fact
@@ -74,18 +91,3 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sainath-666&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainath-666&theme=tokyonight&hide_border=true" />
-</p>
-
