@@ -66,7 +66,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   <br /><br />
-  <img src="https://profile-counter.glitch.me/sainath-666/count.svg" alt="Visitor Count" />
+
+  <img src="https://count.getloli.com/get/@sainath-666?theme=rule34" alt="Visitor Count" />
   <br />
+
   <sup>Thanks for visiting — let's build something amazing together!</sup>
 </div>
+
