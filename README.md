@@ -30,49 +30,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://spotify-clone-1-sai.vercel.app/" target="_blank">
-        <img src="https://github.com/sainath-666/spotify-clone/raw/main/public/assets/images/image.png" alt="Melodify Preview" width="100%" />
-        <br />
-        <strong>🎵 Melodify</strong>
-      </a>
-      <p>A modern Spotify UI clone built with TS + SCSS + React</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://chatty-realtime-chatting.onrender.com/login" target="_blank">
-        <img src="https://github.com/sainath-666/Real-time-Chat-App/raw/main/client/public/preview.png" alt="Chatty Preview" width="100%" />
-        <br />
-        <strong>💬 Chatty</strong>
-      </a>
-      <p>Full-stack real-time chat app with Socket.io & Zustand</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://sainath-666.github.io/Hotel-Website/" target="_blank">
-        <img src="https://github.com/sainath-666/Hotel-Website/raw/main/assets/preview.png" alt="Hotel Website Preview" width="100%" />
-        <br />
-        <strong>🏨 Hotel Website</strong>
-      </a>
-      <p>Responsive hotel booking site with elegant layout</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/sainath-666/Doctor-App" target="_blank">
-        <img src="https://github.com/sainath-666/Doctor-App/raw/main/public/preview.png" alt="Doctor App Preview" width="100%" />
-        <br />
-        <strong>👨‍⚕️ Doctor Consultation (Idea)</strong>
-      </a>
-      <p>Planned structure for an online doctor platform</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -96,11 +53,11 @@
 
 ## 🎓 Certifications
 
-- 🥇 Full Stack Python Developer – Aavanto
-- 📘 Responsive Web Design – freeCodeCamp
-- ☁️ AWS Cloud Practitioner Prep – LinkedIn Learning
-- 🏭 Industry 4.0 & IIoT – NPTEL
-- 🌩️ Google Cloud Fundamentals – Google Skills Boost
+- 🥇 Full Stack Python Developer – Aavanto  
+- 📘 Responsive Web Design – freeCodeCamp  
+- ☁️ AWS Cloud Practitioner Prep – LinkedIn Learning  
+- 🏭 Industry 4.0 & IIoT – NPTEL  
+- 🌩️ Google Cloud Fundamentals – Google Skills Boost  
 
 ---
 
