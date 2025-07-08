@@ -73,3 +73,19 @@
   <sup>Thanks for visiting — let's build something amazing together!</sup>
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sainath-666&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainath-666&theme=tokyonight&hide_border=true" />
+</p>
+
