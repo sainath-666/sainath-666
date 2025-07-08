@@ -4,29 +4,35 @@
 </p>
 
 <!-- Hero Image -->
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
 </div>
 
 ---
 
-<h2 align="center">🌟 Welcome to my GitHub Profile!</h2>
+<h1 align="center">🌟 Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <a href="mailto:sai65265@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sainath666"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sainath-666"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:sai65265@gmail.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sainath666" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sainath-666" rel="nofollow">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 📌 About Me
 
-- 🧑‍💻 I'm a passionate **Full Stack Developer** (React, Node.js, MongoDB)
-- 🤖 Exploring AI with **LangChain**, **GPT4All**, **ChromaDB**
-- 🛠️ Tools: Vite, Tailwind CSS, Docker, Figma, Firebase
-- 🎓 B.Tech in CSE (IoT, Cybersecurity & Blockchain)
-- 📫 Reach me: **[sai65265@gmail.com](mailto:sai65265@gmail.com)**
+- 🧑‍💻 Passionate **Full Stack Developer** – React, Node.js, MongoDB  
+- 🤖 Building AI Chatbots with **LangChain**, **GPT4All**, **ChromaDB**  
+- 🛠️ Tools: Vite, Tailwind, Docker, Figma, Firebase  
+- 🎓 B.Tech in CSE (IoT, Cybersecurity & Blockchain)  
+- 📬 Reach me: **[sai65265@gmail.com](mailto:sai65265@gmail.com)**
 
 ---
 
@@ -51,24 +57,16 @@
 
 ---
 
-## 🎓 Certifications
-
-- 🥇 Full Stack Python Developer – Aavanto  
-- 📘 Responsive Web Design – freeCodeCamp  
-- ☁️ AWS Cloud Practitioner Prep – LinkedIn Learning  
-- 🏭 Industry 4.0 & IIoT – NPTEL  
-- 🌩️ Google Cloud Fundamentals – Google Skills Boost  
-
----
-
 ## ⚡ Fun Fact
 
-> I love turning wild ideas into working prototypes. Whether it's a Spotify clone or a real-time chat app — I'm always building!
+> I thrive on transforming ideas into production-ready builds. Whether it's a real-time chat app or a clean UI clone — I'm always shipping something.
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br /><br />
+  <img src="https://profile-counter.glitch.me/sainath-666/count.svg" alt="Visitor Count" />
   <br />
   <sup>Thanks for visiting — let's build something amazing together!</sup>
 </div>
