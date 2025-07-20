@@ -87,7 +87,7 @@
   <img src="https://count.getloli.com/get/@sainath-666?theme=anime" alt="Visitor Count" />
   <br />
 
-  <sup>Thanks for visiting — let's build something amazing together!</sup>
+  <sup>Thanks for visiting — let's build something amazing together! ❤️</sup>
 </div>
 
 ---
