@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Developer Animation" />
 </p>
-
+ 
 <div align="center">
   <h1>💻 Full Stack Developer | React & Node.js Specialist</h1>
   <p><b>Building scalable web applications with modern tech stack</b></p>
