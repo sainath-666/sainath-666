@@ -30,7 +30,6 @@
   </a>
 </p>
 
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Junior Software Engineer** and **Full Stack Developer** currently building scalable solutions at **CLOVE Technologies**. With a deep focus on the **MERN Stack** and **Next.js**, I love developing real-time applications and integrating AI (like Google Gemini) to craft intelligent, responsive user interfaces.
@@ -135,12 +134,12 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainath-666&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=36BCF7" height="192px" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sainath-666&theme=tokyonight&hide_border=true&border_radius=10&ring=36BCF7&fire=36BCF7" height="192px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainath-666&show_icons=true&theme=tokyonight&hide_border=true" height="192px" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sainath-666&theme=tokyonight&hide_border=true" height="192px" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainath-666&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=36BCF7" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sainath-666&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
 </div>
 
 ---
@@ -148,7 +147,8 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
 ## 🏆 Achievements & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sainath-666&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <!-- GitHub Profile Trophies API is currently down. Uncomment once it's back online! -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=sainath-666&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" /> -->
 </div>
 <br>
 <div align="center">
