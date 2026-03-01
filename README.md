@@ -142,6 +142,13 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sainath-666&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainath-666&theme=tokyonight" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sainath-666&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time" />
+</div>
+
 ---
 
 ## 🏆 Achievements & Contributions
@@ -158,6 +165,10 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
 ---
 
 <div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
+  </a>
+  <br><br>
   <img src="https://count.getloli.com/get/@sainath-666?theme=rule34" alt="Visitor Count" />
   <br><br>
   <i>"Transforming ideas into production-ready code!"</i>
