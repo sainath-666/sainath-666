@@ -104,27 +104,6 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
       <br/>
       <sub><b>Tech:</b> React.js, TypeScript, SCSS, React Bootstrap</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌤️ Full Stack Weather App</h3>
-      <p>Accurate, location-based real-time forecasting tool utilizing the OpenWeatherMap API.</p>
-      <div>
-        <a href="https://sainath-666.github.io/Weather_Application_2/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/sainath-666/Weather_Application_2"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
-      </div>
-      <br/>
-      <sub><b>Tech:</b> JavaScript, React.js, Vite</sub>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎮 Interactive Games</h3>
-      <p>A collection of lightweight browser-based puzzle and logic games built from scratch.</p>
-      <div>
-        <a href="https://sainath-666.github.io/Games/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/sainath-666/Games"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
-      </div>
-      <br/>
-      <sub><b>Tech:</b> Vanilla JavaScript, HTML5, CSS3</sub>
     </td>
   </tr>
 </table>
