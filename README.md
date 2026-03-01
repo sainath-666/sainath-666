@@ -113,19 +113,17 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainath-666&show_icons=true&theme=tokyonight&hide_border=true" height="192px" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sainath-666&theme=tokyonight&hide_border=true" height="192px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainath-666&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sainath-666&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sainath-666&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sainath-666&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sainath-666&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainath-666&theme=tokyonight" width="48%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sainath-666&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainath-666&theme=tokyonight" width="98%" alt="Profile Details" />
 </div>
 
 ---
