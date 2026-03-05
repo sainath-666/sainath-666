@@ -141,6 +141,14 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/sainath-666/sainath-666/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
+
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
