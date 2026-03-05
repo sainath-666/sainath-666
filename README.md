@@ -83,29 +83,6 @@ I'm a passionate **Junior Software Engineer** and **Full Stack Developer** curre
       <sub><b>Tech:</b> React.js, Vite, Tailwind CSS, Google Gemini API</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚗 Car Rental</h3>
-      <p>Modern, responsive vehicle rental platform featuring dynamic search and booking management.</p>
-      <div>
-        <a href="https://car-rental-sai.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/sainath-666/car-rental"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
-      </div>
-      <br/>
-      <sub><b>Tech:</b> Next.js, TypeScript, Tailwind CSS, Context API</sub>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎵 Melodify</h3>
-      <p>Sleek Spotify-inspired music player emphasizing elegant UI and built-in audio controls.</p>
-      <div>
-        <a href="https://spotify-clone-1-sai.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/sainath-666/Spotify_Clone_1"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
-      </div>
-      <br/>
-      <sub><b>Tech:</b> React.js, TypeScript, SCSS, React Bootstrap</sub>
-    </td>
-    </td>
-  </tr>
 </table>
 
 ---
