@@ -1,7 +1,7 @@
 <!-- Hero Animation Header -->
-
+<div align="center">
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36820)](https://codetime.dev)
-
+</div>
 <!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Real-Time+Chat+Apps;Available+for+Freelance+Projects;Transforming+Ideas+Into+Code" alt="Typing SVG" />
