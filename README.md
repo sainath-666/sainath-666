@@ -15,7 +15,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://sainathreddy-gemini-clone.vercel.app/">
+  <a href="https://sainathreddy.in/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sainath666">
