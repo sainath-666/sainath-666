@@ -27,7 +27,7 @@
   <a href="https://github.com/sainath-666">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.upwork.com/">
+  <a href="https://www.upwork.com/freelancers/sainathr8">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </p>
